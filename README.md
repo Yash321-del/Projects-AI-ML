@@ -1,6 +1,6 @@
 Project 1  Click Here- https://project-1-c22ocyegrqcqjwagcza7my.streamlit.app/
 
-Project 2  Click Here-
+Project 2  
 
 Project 3   Click Here- https://sdyobv7fnsricjywfyb7vn.streamlit.app/
 
@@ -17,3 +17,5 @@ Project 8   Click Here- https://project-8-lumfieblyukepr7wkfhvdv.streamlit.app/
 Project 9   Click Here- https://project-9-d2eya55nlizgqcr6tzeevg.streamlit.app/
 
 Project 10  Click Here- 
+
+Project 11  Click Here- https://project-11-gwdmwrnt5jvxrpn2cmqdrr.streamlit.app/
