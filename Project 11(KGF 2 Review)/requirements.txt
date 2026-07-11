@@ -1,9 +1,0 @@
-streamlit
-pandas
-torch
-transformers
-sentencepiece
-sacremoses
-accelerate
-evaluate
-protobuf
