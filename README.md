@@ -12,7 +12,7 @@ Project 6   Click Here- https://yash321.streamlit.app/
 
 Project 7   Click Here- https://project-7-joxtutj72ej3fckce8w6aw.streamlit.app/
 
-Project 8   Click Here-
+Project 8   Click Here- https://project-8-lumfieblyukepr7wkfhvdv.streamlit.app/
 
 Project 9   Click Here- https://project-9-d2eya55nlizgqcr6tzeevg.streamlit.app/
 
